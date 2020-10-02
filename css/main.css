@@ -1,0 +1,62 @@
+#total {
+    background-color: white;
+    max-width: 700px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+body {
+    background-color: #6DD47E;
+}
+header {
+    padding: 10px;
+    height: 80px;
+    background: #293250;
+    font-size: 17px;
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    color: #FFD55A;
+}
+
+h3 {
+    border-bottom: 1px solid;
+}
+
+footer {
+    font-size: 16px;
+    background: #293250;
+    padding: 10px;
+    height: 80px;
+    color: #FFD55A;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+}
+
+img {
+    float: right;
+    padding-right: 25px;
+    margin: auto;
+    width: 120px;
+}
+
+main {
+    margin: 10px;
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+    color: #293250;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #293250;
+}
+
+footer a {
+    color: white;
+}
+li {
+    font-size: 18px;
+}
